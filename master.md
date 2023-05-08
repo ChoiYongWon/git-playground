@@ -1,7 +1,7 @@
 # master from conflit
-hello 
-world
-my
+Hello 
+world fixed by master
+m
 name
 is
 choi
