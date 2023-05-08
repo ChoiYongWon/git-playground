@@ -4,7 +4,7 @@ world
 my
 name
 is
-choi
+choi fixed by conflict
 yong
 won
 
